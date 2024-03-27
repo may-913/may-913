@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./frame1.png)
+![Header](./header.png)
 <!--
 **may-913/may-913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
