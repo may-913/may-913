@@ -3,7 +3,8 @@
 
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/meagan-barnhurst-77b164274/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/meagan-barnhurst-77b164274/)
+
 
 ## School
 
